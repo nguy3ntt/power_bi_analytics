@@ -18,7 +18,9 @@ The raw dataset is not stored in this repository. It can be downloaded from the 
 
 ## Dashboard Preview
 
-![Dashboard Preview](./images/dashboard_preview.png)
+![Booking Overview](./images/booking-overview.png)
+
+![Cancellation & Customer Behaviour](./images/ccbehavior.png)
 
 ## Business Questions
 
