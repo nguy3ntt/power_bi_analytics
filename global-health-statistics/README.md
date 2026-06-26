@@ -18,7 +18,9 @@ The raw dataset is not stored in this repository. It can be downloaded from the 
 
 ## Dashboard Preview
 
-![Dashboard Preview](./images/dashboard_preview.png)
+![Global Health Overview](./images/overview.png)
+
+![Disease & Treatment Outcomes](./images/dntoutcomes.png)
 
 ## Business / Analytical Questions
 
