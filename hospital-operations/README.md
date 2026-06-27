@@ -22,7 +22,7 @@ The raw dataset is not stored in this repository. It can be downloaded from Kagg
 
 ![Specialty & Case Complexity](./images/scc.png)
 
-![Doctor & Payer Performance](./images/dbb.png)
+![Doctor & Payer Performance](./images/dpp.png)
 
 ## Analytical Questions
 
