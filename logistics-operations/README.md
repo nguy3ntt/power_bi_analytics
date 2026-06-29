@@ -1,22 +1,22 @@
-# Logistics Operations Control Tower
+# Dynamic Supply Chain Risk Control Tower
 
 ## Project Overview
 
-This project is a Power BI dashboard built using the Logistics and Supply Chain Dataset from Kaggle.
+This project is a Power BI dashboard built using a dynamic supply chain logistics dataset from Kaggle.
 
-The dashboard analyses logistics and supply chain operations across transportation activity, warehouse workload, route performance, traffic conditions, delays, and time-based operational patterns.
+The dashboard analyses logistics risk, delay probability, delivery time deviation, congestion, supplier reliability, driver behaviour, fuel consumption, port congestion, weather severity, and operational conditions.
 
-The purpose of this project is to practise Power BI dashboard development while showcasing skills in operations analytics, KPI design, Power Query data preparation, DAX measures, interactive reporting, and professional dashboard design.
+The purpose of this project is to practise Power BI dashboard development while showcasing skills in supply chain analytics, risk monitoring, KPI design, DAX measures, Power Query transformation, and professional dashboard design.
 
-The dashboard is designed as a logistics control tower, allowing users to monitor operational performance, identify delay patterns, compare routes or warehouses, and understand how traffic and time affect supply chain activity.
+The dashboard is designed as a supply chain risk control tower, allowing users to monitor logistics risk levels, identify delay drivers, compare operational conditions, and understand patterns across time.
 
 ## Dataset
 
-Dataset: [Logistics and Supply Chain Dataset on Kaggle](https://www.kaggle.com/datasets/datasetengineer/logistics-and-supply-chain-dataset)
+Dataset: Dynamic Supply Chain Logistics Dataset from Kaggle.
 
-The dataset captures logistics and supply chain operations from a logistics network in Southern California. It includes hourly operational records from January 2021 to January 2024, covering transportation, warehouse management, route planning, real-time monitoring, traffic, and operational conditions.
+The dataset contains hourly logistics and supply chain monitoring records from 2021 to 2024. It includes fields related to vehicle location, congestion, warehouse inventory, loading/unloading time, supplier reliability, port congestion, driver behaviour, fatigue monitoring, disruption likelihood, delay probability, risk classification, and delivery time deviation.
 
-The raw dataset is not stored in this repository. It can be downloaded from the Kaggle link above.
+The raw dataset is not stored in this repository. It can be downloaded from Kaggle.
 
 ## Dashboard Preview
 
@@ -26,32 +26,48 @@ The raw dataset is not stored in this repository. It can be downloaded from the 
 
 This dashboard explores the following questions:
 
-1. What is the overall logistics activity level?
-2. Which routes or warehouses experience the most workload?
-3. Where are delays most common?
-4. How do traffic conditions relate to logistics delays?
-5. How does operational activity change by month, day, or hour?
-6. Which logistics areas may require operational attention?
+1. What is the overall logistics risk profile?
+2. How often do operations fall into high, moderate, and low risk classifications?
+3. How does delay probability change over time?
+4. Which operational factors are associated with higher delivery time deviation?
+5. How do traffic congestion, port congestion, weather severity, and supplier reliability relate to risk?
+6. What conditions indicate possible supply chain disruption?
+
+## Key Metrics
+
+The dashboard includes the following metrics:
+
+- Total Records
+- Average Delay Probability
+- Average Delivery Time Deviation
+- Average ETA Variation
+- Average Traffic Congestion Level
+- Average Port Congestion Level
+- Average Supplier Reliability Score
+- High Risk Records
+- High Risk Rate
+- Average Disruption Likelihood Score
+- Average Route Risk Level
 
 ## Dashboard Pages
 
-### 1. Operations Control Tower
+### 1. Risk Control Tower
 
-This page provides a high-level overview of logistics performance.
+This page provides a high-level monitoring view of logistics risk.
 
-It includes key metrics such as total records, total shipments or operations, delay rate, average delay, active routes, active warehouses, and activity trends over time.
+It includes KPI cards, risk classification distribution, delay probability trend, delivery time deviation trend, and high-level operational risk indicators.
 
-### 2. Route & Delay Analysis
+### 2. Delay & Disruption Analysis
 
-This page focuses on transportation performance.
+This page focuses on delay probability, delivery time deviation, disruption likelihood, ETA variation, and risk classification.
 
-It analyses route-level activity, delay patterns, traffic conditions, average delay, and high-delay routes.
+It helps identify how logistics delay risk changes over time and across risk levels.
 
-### 3. Warehouse & Workload Analysis
+### 3. Operational Risk Drivers
 
-This page focuses on warehouse operations and workload distribution.
+This page analyses possible operational drivers of risk, including traffic congestion, port congestion, weather severity, supplier reliability, driver behaviour, fatigue monitoring, fuel consumption, and cargo condition.
 
-It compares warehouse activity, operational volume, delay contribution, and time-based workload patterns.
+It helps explain which operational conditions may be linked to higher logistics risk.
 
 ## Tools Used
 
@@ -62,17 +78,17 @@ It compares warehouse activity, operational volume, delay contribution, and time
 
 ## Skills Demonstrated
 
-- Logistics operations analysis
+- Supply chain risk analysis
 - Power Query data preparation
 - DAX measure creation
 - KPI dashboard design
-- Delay and traffic analysis
-- Route-level performance monitoring
-- Warehouse workload analysis
-- Time-based trend analysis
-- Interactive slicers and filtering
-- Control-tower style dashboard design
+- Time-series analysis
+- Risk classification analysis
+- Operational driver analysis
+- Conditional formatting
+- Interactive slicers
+- Professional control-tower dashboard design
 
 ## Notes
 
-This project uses a public Kaggle dataset for portfolio and learning purposes. The dashboard is intended to demonstrate logistics analytics and Power BI dashboard design skills.
+This project uses a public dataset for portfolio and learning purposes. The dashboard is intended to demonstrate supply chain analytics and Power BI dashboard design skills.
