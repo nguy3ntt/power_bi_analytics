@@ -20,7 +20,11 @@ The raw dataset is not stored in this repository. It can be downloaded from Kagg
 
 ## Dashboard Preview
 
-![Dashboard Preview](./images/dashboard_preview.png)
+![Dashboard Preview](./images/rct.png)
+
+![Dashboard Preview](./images/dda.png)
+
+![Dashboard Preview](./images/ord.png)
 
 ## Analytical Questions
 
