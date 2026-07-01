@@ -49,26 +49,6 @@ The dashboard includes the following metrics:
 - Bookings by Customer Type
 - Monthly Booking Trend
 
-## Tools Used
-
-- Power BI
-- Power Query
-- DAX
-- Kaggle dataset
-
-## Data Preparation
-
-Basic data preparation was completed in Power Query:
-
-- Renamed columns for readability
-- Checked and corrected data types
-- Converted cancellation status into readable labels
-- Created total stay duration from weekday and weekend nights
-- Created total guests from adults, children, and babies
-- Created arrival date fields for time-based analysis
-- Checked missing values and inconsistent records
-- Prepared categorical fields for dashboard filtering
-
 ## Dashboard Sections
 
 ### 1. Executive Summary
@@ -104,22 +84,6 @@ It helps identify peak booking periods, low-demand periods, and seasonal differe
 This section analyses customer type, guest numbers, stay duration, and booking patterns.
 
 It helps understand who the customers are and how long they typically stay.
-
-## Skills Demonstrated
-
-This project demonstrates:
-
-- Importing and preparing CSV data in Power BI
-- Cleaning and transforming data in Power Query
-- Creating calculated columns
-- Creating DAX measures
-- Building KPI cards
-- Creating cancellation rate metrics
-- Using slicers for interactivity
-- Comparing categorical groups
-- Analysing time-based trends
-- Designing a business-focused dashboard
-- Communicating insights from visual data
 
 ## Notes
 

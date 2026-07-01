@@ -89,22 +89,6 @@ It analyses mortality rate by disease, treatment effectiveness by disease, disea
 
 The purpose of this page is to identify diseases and countries that may require greater public-health attention.
 
-## Skills Demonstrated
-
-This project demonstrates:
-
-- Importing and preparing public-health data in Power BI
-- Cleaning and transforming data in Power Query
-- Creating calculated columns
-- Creating DAX measures
-- Building public-health KPI cards
-- Analysing prevalence, incidence, mortality, and treatment effectiveness
-- Creating grouped health-risk categories
-- Using slicers for interactivity
-- Comparing countries and diseases
-- Designing an academic-style analytics dashboard
-- Communicating insights from global health data
-
 ## Notes
 
 This is a practice and portfolio project using a public Kaggle dataset. The dashboard is intended to demonstrate Power BI and public-health analytics skills rather than provide official medical or epidemiological conclusions.

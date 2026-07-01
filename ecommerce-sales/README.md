@@ -37,20 +37,6 @@ This dashboard explores the following questions:
 4. Which payment methods are most commonly used?
 5. How does revenue change over time?
 
-## Key Metrics
-
-The dashboard includes the following metrics:
-
-- Total Revenue
-- Total Transactions
-- Average Order Value
-- Average Discount
-- Number of Categories
-- Revenue by Category
-- Transactions by Payment Method
-- Revenue Trend Over Time
-- Revenue by Discount Band
-
 ## Tools Used
 
 - Power BI
@@ -108,20 +94,6 @@ It helps understand customer payment preferences across the dataset.
 This section groups transactions into discount bands.
 
 It helps analyse how much sales activity occurs under different discount levels.
-
-## Skills Demonstrated
-
-This project demonstrates:
-
-- Importing CSV data into Power BI
-- Cleaning and preparing data in Power Query
-- Creating DAX measures
-- Creating a date table
-- Building KPI cards
-- Designing bar charts, line charts, and donut charts
-- Adding slicers for interactivity
-- Creating a clean dashboard layout
-- Communicating business insights from dashboard visuals
 
 ## Notes
 

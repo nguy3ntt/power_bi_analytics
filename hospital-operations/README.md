@@ -55,26 +55,6 @@ This page focuses on billing, insurance/payment patterns, department-level reven
 
 It helps connect operational activity with financial outcomes.
 
-## Tools Used
-
-- Power BI
-- Power Query
-- DAX
-- Kaggle dataset
-
-## Skills Demonstrated
-
-- Healthcare operations analysis
-- Power Query data preparation
-- DAX measure creation
-- KPI dashboard design
-- Department-level performance analysis
-- Patient flow analysis
-- Financial analytics
-- Interactive slicers and navigation
-- Custom tooltip pages
-- Professional dashboard layout and theme design
-
 ## Notes
 
 This project uses a synthetic dataset for portfolio and learning purposes. The dashboard is intended to demonstrate healthcare analytics and Power BI design skills, not to provide real medical or operational advice.

@@ -80,19 +80,6 @@ It helps explain which operational conditions may be linked to higher logistics 
 - DAX
 - Kaggle dataset
 
-## Skills Demonstrated
-
-- Supply chain risk analysis
-- Power Query data preparation
-- DAX measure creation
-- KPI dashboard design
-- Time-series analysis
-- Risk classification analysis
-- Operational driver analysis
-- Conditional formatting
-- Interactive slicers
-- Professional control-tower dashboard design
-
 ## Notes
 
 This project uses a public dataset for portfolio and learning purposes. The dashboard is intended to demonstrate supply chain analytics and Power BI dashboard design skills.

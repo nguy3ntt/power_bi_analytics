@@ -52,26 +52,6 @@ The dashboard includes the following metrics:
 * Attrition by Job Satisfaction
 * Attrition by Work-Life Balance
 
-## Tools Used
-
-* Power BI
-* Power Query
-* DAX
-* Kaggle dataset
-
-## Data Preparation
-
-Basic data preparation was completed in Power Query:
-
-* Renamed columns for readability
-* Checked and corrected data types
-* Converted attrition values into a readable attrition status field
-* Created age groups for demographic analysis
-* Created income bands for salary-level comparison
-* Created years-at-company groups for tenure analysis
-* Checked for missing values and duplicate records
-* Removed or ignored columns that do not add analytical value to the dashboard
-
 ## Dashboard Pages
 
 ### 1. Workforce Overview
@@ -91,22 +71,6 @@ This page focuses on employee attrition patterns.
 It analyses attrition by department, job role, overtime, job satisfaction, work-life balance, income band, and years at company.
 
 The purpose of this page is to identify workforce groups with higher attrition rates and support HR retention analysis.
-
-## Skills Demonstrated
-
-This project demonstrates:
-
-* Importing and preparing HR data in Power BI
-* Cleaning and transforming data in Power Query
-* Creating calculated columns
-* Creating DAX measures
-* Building HR KPI cards
-* Calculating attrition rate
-* Creating categorical bands for analysis
-* Using slicers for interactivity
-* Comparing employee groups
-* Designing a professional HR analytics dashboard
-* Communicating insights from workforce data
 
 ## Notes
 
