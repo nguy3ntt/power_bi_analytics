@@ -28,8 +28,6 @@ The raw dataset is not stored in this repository. It can be downloaded from the 
 
 ![Dashboard Preview](./images/overview.png)
 
-![Dashboard Preview](./images/analysis.png)
-
 ## Business Questions
 
 This dashboard explores the following questions:
