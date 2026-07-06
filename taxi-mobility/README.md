@@ -14,6 +14,10 @@ Dataset: [NYC Taxi Trip Duration on Kaggle](https://www.kaggle.com/datasets/yass
 
 ![Dashboard Preview](./images/overview.png)
 
+![Dashboard Preview](./images/dta.png)
+
+![Dashboard Preview](./images/tea.png)
+
 ## Business Questions
 
 This dashboard explores the following questions:
