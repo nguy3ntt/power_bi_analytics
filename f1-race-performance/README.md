@@ -24,11 +24,11 @@ The raw dataset is not stored in this repository. It can be downloaded from the 
 
 ## Dashboard Preview
 
-![Dashboard Preview](./images/1.png)
+![Dashboard Preview](./images/o.png)
 
-![Dashboard Preview](./images/2.png)
+![Dashboard Preview](./images/p.png)
 
-![Dashboard Preview](./images/3.png)
+![Dashboard Preview](./images/a.png)
 
 ## Analytical Questions
 
