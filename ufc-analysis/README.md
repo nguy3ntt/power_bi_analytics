@@ -30,11 +30,13 @@ The raw dataset is not stored in this repository.
 
 ## Dashboard Preview
 
-![Dashboard Preview](./images/dashboard_preview.png)
+![Dashboard Preview](./images/1.png)
 
-![Dashboard Preview](./images/dashboard_preview.png)
+![Dashboard Preview](./images/2.png)
 
-![Dashboard Preview](./images/dashboard_preview.png)
+![Dashboard Preview](./images/3.png)
+
+![Dashboard Preview](./images/4.png)
 
 ## Analytical Questions
 
@@ -47,24 +49,6 @@ This dashboard explores the following questions:
 5. Which fighters demonstrate strong striking or grappling performance?
 6. How do individual fighters perform across their UFC fight history?
 7. How do two selected fighters compare statistically?
-
-## Dashboard Sections
-
-### 1. UFC Overview
-
-Provides an overview of UFC fight volume, events, fighters, weight classes, finishing rates, and historical trends.
-
-### 2. Fight & Finish Analysis
-
-Analyses KO/TKO, submission, and decision outcomes across weight classes, rounds, fight durations, and historical periods.
-
-### 3. Fighter Performance Lab
-
-Provides an interactive fighter profile including win record, finishing methods, striking performance, takedown performance, control time, and fight history.
-
-### 4. Fighter vs Fighter
-
-Allows two fighters to be selected independently and compares their records, striking efficiency, grappling performance, takedown defence, control time, and other performance indicators.
 
 ## Notes
 
